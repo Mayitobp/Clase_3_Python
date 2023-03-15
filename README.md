@@ -1,2 +1,1 @@
-# Clase_3_Python
-implementing bubble sort
+# Clase_2_GIT
