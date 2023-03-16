@@ -1,5 +1,6 @@
 print('escriba una lista de numeros separados x comas')
-y=input()
+#y=input()
+y='4,0,2,7,9,1,3,5,6'
 x=y.split(',')
 #print(list(map(int,x)))
 z=list(map(int,x))
