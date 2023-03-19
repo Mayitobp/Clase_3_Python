@@ -1,0 +1,15 @@
+x=[1,2,3]
+y=[4,5]
+z=[]
+z.append(x.pop())
+z.append(x.pop())
+z.append(y.pop())
+y.append(x.pop())
+x.append(z.pop())
+x.append(z.pop())
+x.append(z.pop())
+z.append(y.pop())
+z.append(x.pop())
+y.append(x.pop())
+x.append(z.pop())
+print(z,y,x)
